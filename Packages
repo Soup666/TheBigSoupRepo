@@ -1,0 +1,14 @@
+Package: com.soup.timechange
+Name: SIM Changer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows custom text to be set instead of the SIM card text
+Maintainer: Soup
+Author: Soup
+Section: Tweak
+Depends: 
+Filename: /debs/com.soup.timechange_0.0.1-17+debug_iphoneos-arm.deb
+Size: 6788
+MD5sum: d65beeb37250c0ea0631f9098c72e7a4
+SHA1: 12393ad29606e8bfec0c5e80b7992cbb8364456d
+SHA256: 16333d4647c01d17f1e012f221b30f4083c484decf66563ca3fff63ee3c34658
