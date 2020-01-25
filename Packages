@@ -1,3 +1,18 @@
+Package: com.soup.uzitimepref
+Name: Uzi Passcode
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows the user to enter 1600 or 1400 as the passcode
+Maintainer: Soup
+Author: Soup
+Section: Tweak
+Depends: mobilesubstrate
+Filename: debs//com.soup.uzitime_0.0.1-18+debug_iphoneos-arm.deb
+Size: 22816
+MD5sum: 39bab4db55e1e983558a350344f41517
+SHA1: c97bf3d5e26fd58bde11d84230ac18f042cb10b6
+SHA256: 46ccde690d165e19bd0960e85c29d30d0b9320cca724f04fd3a4fa835f7d03e5
+
 Package: com.soup.timechange
 Name: SIM Changer
 Version: 1.0.0
