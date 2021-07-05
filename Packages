@@ -1,29 +1,14 @@
-Package: com.soup.uzitime
-Name: Uzi Passcode
+Package: com.soup.soupsrandomcolourstatusbar
+Name: Soups Random Colour Status Bar
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Allows the user to enter 1600 or 1400 as the passcode
+Description: A tweak that randomises the colour of the status bar!
 Maintainer: Soup
 Author: Soup
 Section: Tweak
 Depends: mobilesubstrate
-Filename: debs//com.soup.uzitime_0.0.1-18+debug_iphoneos-arm.deb
-Size: 22816
-MD5sum: 39bab4db55e1e983558a350344f41517
-SHA1: c97bf3d5e26fd58bde11d84230ac18f042cb10b6
-SHA256: 46ccde690d165e19bd0960e85c29d30d0b9320cca724f04fd3a4fa835f7d03e5
-
-Package: com.soup.timechange
-Name: SIM Changer
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Allows custom text to be set instead of the SIM card text
-Maintainer: Soup
-Author: Soup
-Section: Tweak
-Depends: mobilesubstrate
-Filename: debs//com.soup.timechange_0.0.1-18+debug_iphoneos-arm.deb
-Size: 6796
-MD5sum: 5575e86c35505e674548c34b150acdd1
-SHA1: 1784eeccea04975580b324caff9c1a831998e9e9
-SHA256: 9f909db7995a4a75b09935cff5ec0f88642332ea2572969a25163f06bc1016be
+Filename: debs//com.soup.soupsrandomcolourstatusbar_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4182
+MD5sum: 9509fb724bca1ca93882e38abc6f8763
+SHA1: 115c49d5ed4129b4f6c8b16ea3b31ff4009077df
+SHA256: 6bda00ac40cf4dfbe20dfd1d4202589dc4a9f71c8bfc2da00b611c116eef63d5
