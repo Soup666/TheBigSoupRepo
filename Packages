@@ -1,0 +1,14 @@
+Package: com.soup.soupsrandomcolourstatusbar
+Name: Soups Random Colour Status Bar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak that randomises the colour of the status bar!
+Maintainer: Soup
+Author: Soup
+Section: Tweak
+Depends: mobilesubstrate
+Filename: debs//com.soup.soupsrandomcolourstatusbar_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4182
+MD5sum: 9509fb724bca1ca93882e38abc6f8763
+SHA1: 115c49d5ed4129b4f6c8b16ea3b31ff4009077df
+SHA256: 6bda00ac40cf4dfbe20dfd1d4202589dc4a9f71c8bfc2da00b611c116eef63d5
